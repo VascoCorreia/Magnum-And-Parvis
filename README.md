@@ -3,4 +3,4 @@ Small project created usiung Unity and C#. A game where I wanted to test Artific
 
 Code is inside Assets/Scripts Folder.
 
-![GameLogo](https://github.com/VascoCorreia/MagnumAndParvis/tree/master/Media/game_logo.png)
+![GameLogo](Media/game_logo.png)
