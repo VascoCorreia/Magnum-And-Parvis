@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e0c9634bfe84540817ccb38fd7286d, type: 3}
+  m_Name: Melee Chase State
+  m_EditorClassIdentifier: 
+  entryAction: {fileID: 11400000, guid: e7c3da08ba38c05419fc23deb3ebeef2, type: 2}
+  stateActions:
+  - {fileID: 11400000, guid: 6e71e070d1dd3ae418e8471122ede9e7, type: 2}
+  exitAction: {fileID: 0}
+  transitions:
+  - {fileID: 11400000, guid: cb70d9eb388d455429c6d5675dd5418f, type: 2}
+  - {fileID: 11400000, guid: 865660edc7c002d47ac1249beffc77c3, type: 2}

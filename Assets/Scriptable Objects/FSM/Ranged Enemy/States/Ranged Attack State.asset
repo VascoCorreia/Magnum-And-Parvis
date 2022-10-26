@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51e0c9634bfe84540817ccb38fd7286d, type: 3}
+  m_Name: Ranged Attack State
+  m_EditorClassIdentifier: 
+  entryAction: {fileID: 11400000, guid: 64a39f2db09f8c34f8e2f68bfbc43c68, type: 2}
+  stateActions:
+  - {fileID: 11400000, guid: 04e58fb648bc47f4cad279b88e5eb34a, type: 2}
+  exitAction: {fileID: 0}
+  transitions:
+  - {fileID: 11400000, guid: 91cfcfea3da47dc41990300eab57a5b3, type: 2}
+  - {fileID: 11400000, guid: d514848fb9a44bf47b9657021585b501, type: 2}
