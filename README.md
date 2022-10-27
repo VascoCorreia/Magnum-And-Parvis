@@ -2,6 +2,6 @@
 
 Small project created usiung Unity and C#. A game where I wanted to test Artifical intelligence, Shaders, and some in game mechanics such as switching characters and puzzles.
 
-Code is inside Assets/Scripts Folder.
+A release can be found in the Release with the source code and a ZIP with a .exe inside.
 
 
